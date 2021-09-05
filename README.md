@@ -44,3 +44,6 @@ package.json
     "deploy": "yarn build && gh-pages -d build"
   },
 ```
+```
+$ yarn deploy
+```
